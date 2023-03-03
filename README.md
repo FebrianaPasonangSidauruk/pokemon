@@ -1,7 +1,5 @@
 # Pokemon
 
-This project is Home Assignment for Web Developer Internship - PT. Gravel Technology Indonesia
-
 ## Purpose of The Project
 
 This project aims to display a list of pokemon names and pictures along with their details using Pokemon API.
